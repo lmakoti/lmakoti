@@ -4,7 +4,7 @@
 
 Please join me on my journey to build an analytics platform with data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
-[![Facebook Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][facebook]
+[![LinkedIn Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][linkedin]
 [![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] 
 [![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
 
@@ -122,6 +122,12 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 1. **Gender Inequality Index:** https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/GenderInequalityIndex-LesothoContext/LesothoGenderInequalityIndex
 2. **Climate Change CO2 Emissions** (COP26): https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/COP26ClimateChangeConferenceLesothoContext/COP26ClimateChangeConferenceLesotho
 3. **Human Development Index**: https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/HumanDevelopmentIndex-LesothoUNDP/Dashboard1 
+
+
+
+## Curriculum Vitae
+
+**Download my Curriculum Vitae(PDF)** -  <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
 
 
 
