@@ -1,6 +1,6 @@
 ### <p style="text-align: center">Hi, Welcome to my Analytics Portfolio </p>
 
-![portfolio_banner](C:\Users\Lehlohonolo Makoti\Documents\Learning & Dev\Data Work Portfolio\portfolio_banner.png)
+![](https://raw.githubusercontent.com/Codepool-tech/lmakoti/master/images/portfolio_banner.png?token=ATIJT3HCA3CWPRXT73UA4V3BZHH6K)
 
 Please join me on my journey to build an analytics platform with data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
@@ -61,7 +61,7 @@ These are the tentative tools to be used in developing the data products:
 
 | **Tools currently in use for development of my data products**
 
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#)  [![Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-161637?style=for-the-badge&labelColor=212121&logo=Adobe%20Photoshop&logoColor=white)](#)
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-161637?style=for-the-badge&labelColor=212121&logo=Adobe%20Photoshop&logoColor=white)](#)
 
 
 
