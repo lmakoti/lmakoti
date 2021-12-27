@@ -1,8 +1,6 @@
 ### <p style="text-align: center">Hi, Welcome to my Analytics Portfolio </p>
 
-```html
 <img src="resource\banner.png" alt="portfolio banner">
-```
 
 Please join me on my journey to build an analytics platform with data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
