@@ -1,6 +1,6 @@
 ### <p style="text-align: center">Hi, Welcome to my Analytics Portfolio </p>
 
-![](https://raw.githubusercontent.com/Codepool-tech/lmakoti/master/images/portfolio_banner.png?token=ATIJT3HCA3CWPRXT73UA4V3BZHH6K)
+![](C:\Users\Lehlohonolo Makoti\Documents\Learning & Dev\Data Work Portfolio\Portfolio Resources\portfolio_banner.png)
 
 Please join me on my journey to build an analytics platform with data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
