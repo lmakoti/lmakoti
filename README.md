@@ -78,11 +78,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 - **data sources**(store associated data sources)
 - **resources**(store any pictures or graphics associated with building the dashboard)
 
-
-
-<p style="text-align: center">Then enters meno ... </p>
-
-<img src="https://www.kindpng.com/picc/m/341-3410861_transparent-teeth-png-tooth-cartoon-png-download.png" alt="Transparent Teeth - Png Tooth Cartoon, Png Download - kindpng" style="zoom: 33%;" />
+<!---<p style="text-align: center">Then enters meno ... </p>--->
 
 ## Selected UN International Days and Weeks
 
