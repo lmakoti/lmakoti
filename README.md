@@ -125,7 +125,9 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 
 **Download my Curriculum Vitae(PDF)** -  <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
 
+## Closing Remarks
 
+Understand you won't always have an answer, but also understand it's your responsibility to have one the next time the same question comes up.
 
 <!-- Profile Links -->
 
