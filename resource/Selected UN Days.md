@@ -1,7 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_of_the_United_Nations_%28B%26W%29.svg/2411px-Logo_of_the_United_Nations_%28B%26W%29.svg.png" style="zoom:5%;" />
-
-
-
 ## Selected UN International Days and Weeks
 
 ### Understanding the Document Coding
