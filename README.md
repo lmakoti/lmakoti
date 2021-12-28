@@ -127,7 +127,7 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 
 ## Closing Remarks
 
-Understand you won't always have an answer, but also understand it's your responsibility to have one the next time the same question comes up.
+<p style="text-align: center">Understand you won't always have an answer, but also understand it's your responsibility to have one the next time the same question comes up.</p>
 
 <!-- Profile Links -->
 
