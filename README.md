@@ -65,65 +65,66 @@ These are the tentative tools to be used in developing the data products:
 
 
 
+## Selected UN International Days and Weeks
+
+Below is a link to the data products' development calendar based on the thematic events I have selected to be part of this portfolio. 
+
+**NB** This selection in **no** way prioritizes or ranks any of the events, this is purely on personal preference and my work schedule.
+
+**View Selected UN Days and Weeks** -  <a href="resource\Selected UN Days.md" target="_blank" download="Lehlohonolo Makoti CV">Data Projects/Product Calendar</a>
+
+
+
 ## Publishing Platforms
 
 The portfolio will be developed and maintained on GitHub (https://github.com/lmakoti/), below is how the repositories and updates to their content will be managed.
 
-*Under Review*
+**Under Review**
 
-**Root**: project file (.tbwx)
+**Repository - Data Product Naming Convention** - 
 
-**Sub-folders:** 
+**Folder Structure** - 
 
-- **data sources**(store associated data sources)
-- **resources**(store any pictures or graphics associated with building the dashboard)
+> month_un_international_day_week (repo) > thematic_area-un_code-date (sub-folder), where date format is DDYYYY
+>
+> eg. january_un_international_day_week > international_day_of_education-A/RES/73/25-242024
+
+**Sub-folder Structure**:
+
+**Root**: 
+
+**Description** (readme.md) - theme description based on the UN issued documentation on the topic.
+
+1. **Data Source** - store theme associated data sources from relevant UN agencies (**NB**. UN has 16 specialised agencies)
+2. **ETL Pipeline/Architecture** - 
+3. **Resources** - store any pictures or graphics associated with building the dashboard
+4. **Dashboard/Report** - data product presentation in a dashboard/report format
+5. **Meta-Content** - Support/Connect (Social profiles)
+6. **Licensing** - Creative Commons (CC)
 
 <!---<p style="text-align: center">Then enters meno ... </p>--->
 
-## Selected UN International Days and Weeks
 
-### Understanding the Document Coding
-
-The numbers and letters in document symbols do not directly indicate the  topic of the document; rather they serve to identify, in following  order:
-
-- the body or organ *that issued the document – comprised of the parent body or special body.*
-- the subsidiary body responsible for the document - *either the standing committee or subsidiary body of the parent body.*
-- the organizational session or year *during which the document was issued*
-- the *document type*
-- the unique number of the document
-
-### Monthly Selected UN International Days and Weeks
-
-**January**
-
-**24th January** - International Day of Education (A/RES/73/25)
-
-- **Details** - https://www.un.org/en/observances/education-day
-- **Documentation** - https://undocs.org/en/A/RES/73/25
-- **Reference Code** 
-  - A/ ... - General Assembly
-  - ../RES/... - Mimeograph texts of adopted resolutions
-  - .../.../73/... - N/A
-  - .../.../.../25 - N/A
-
-## Data Story Template
-
-1. Indicator Description
-2. Storyline 
-3. Picture works
-4. Data visuals
 
 ## Published Works
+
+**Previous published data works**
 
 1. **Gender Inequality Index:** https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/GenderInequalityIndex-LesothoContext/LesothoGenderInequalityIndex
 2. **Climate Change CO2 Emissions** (COP26): https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/COP26ClimateChangeConferenceLesothoContext/COP26ClimateChangeConferenceLesotho
 3. **Human Development Index**: https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/HumanDevelopmentIndex-LesothoUNDP/Dashboard1 
+
+**Updated published data works**
+
+...
 
 
 
 ## Curriculum Vitae
 
 **Download my Curriculum Vitae(PDF)** -  <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
+
+
 
 ## Closing Remarks
 
