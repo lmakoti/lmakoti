@@ -87,20 +87,27 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 > month_un_international_day_week (repo) > thematic_area-un_code-date (sub-folder), where date format is DDYYYY
 >
-> eg. january_un_international_day_week > international_day_of_education-A/RES/73/25-242024
+> eg. jan_un_international_day_week > international_day_of_education-A_RES_73_25-242024
 
 **Sub-folder Structure**:
 
 **Root**: 
 
-**Description** (readme.md) - theme description based on the UN issued documentation on the topic.
+* **Description** (readme.md) - theme description based on the UN issued documentation on the topic.
+* **Meta-Content** - Support/Connect (Social profiles)
+* **Licensing** - Creative Commons (CC)
+
+**Folders**
 
 1. **Data Source** - store theme associated data sources from relevant UN agencies (**NB**. UN has 16 specialised agencies)
-2. **ETL Pipeline/Architecture** - 
+
+2. **ETL Architecture (Pipeline)** - 
+
 3. **Resources** - store any pictures or graphics associated with building the dashboard
+
 4. **Dashboard/Report** - data product presentation in a dashboard/report format
-5. **Meta-Content** - Support/Connect (Social profiles)
-6. **Licensing** - Creative Commons (CC)
+
+   
 
 <!---<p style="text-align: center">Then enters meno ... </p>--->
 
@@ -116,7 +123,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 **Updated published data works**
 
-...
+... Loading
 
 
 
