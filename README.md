@@ -131,6 +131,11 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 **Download my Curriculum Vitae(PDF)** -  <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
 
+## Language Competencies
+1. Sesotho (Native)
+2. Southern Bantu Languages: Kelobedu, Lozi, Pedi, Tswana (Beginner)
+3. English (Proficient)
+4. French (Beginner)
 
 
 ## Closing Remarks
