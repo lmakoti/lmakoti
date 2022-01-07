@@ -135,7 +135,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 1. Sesotho (Native)
 2. Southern Bantu Languages: Kelobedu, Lozi, Pedi, Tswana (Beginner)
 3. English (Proficient)
-4. French (Beginner)
+4. French (Beginner) - <a href="https://github.com/LM411/certifications/blob/main/Letter-of-enrollment-1093136.pdf">New Skills Academy Enrollment Letter</a>
 
 
 ## Closing Remarks
@@ -147,6 +147,8 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 [linkedin]: https://www.linkedin.com/in/lehlohonolomakoti/
 [github]: https://www.github.com/lmakoti/
 [facebook]: https://www.facebook.com/lmakoti/
+
+
 
 <!-- Shields Profile Links -->
 
