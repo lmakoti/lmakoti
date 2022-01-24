@@ -123,9 +123,8 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 **Updated published data works**
 
-... Loading
-
-
+1. International Day of Education (24th January 2022) - https://github.com/lmakoti/SDG4-Education, An overview of education in the SADC region
+2. ... Loading
 
 ## Curriculum Vitae
 
