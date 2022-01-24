@@ -81,18 +81,15 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 **Under Review**
 
-**Repository - Data Product Naming Convention** - 
+**Data Product Naming Convention** - SDG'X' - 'Thematic Area' , X is the main SDG in focus and 'Thematic Area' is the focus of the selected UN event.
 
-**Folder Structure** - 
+**Folder Structure (Root)**
 
-> month_un_international_day_week (repo) > thematic_area-un_code-date (sub-folder), where date format is DDYYYY
->
-> eg. jan_un_international_day_week > international_day_of_education-A_RES_73_25-242024
+> Data Product file (Dashboard/Report) 
+> 'Event name - SDGX (UN Document Code)'
+> e.g. International Day of Education - SDG4 (A_RES_73_25-242024)
 
-**Sub-folder Structure**:
-
-**Root**: 
-
+**Sub-Folders**
 * **Description** (readme.md) - theme description based on the UN issued documentation on the topic.
 * **Meta-Content** - Support/Connect (Social profiles)
 * **Licensing** - Creative Commons (CC)
