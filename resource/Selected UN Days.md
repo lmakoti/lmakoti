@@ -21,7 +21,7 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 **24th January 2022** - International Day of Education (A/RES/73/25)
 
 - **Details** - https://www.un.org/en/observances/education-day
-- **Documentation** - https://undocs.org/en/A/RES/73/25, 
+- **Documentation** - https://digitallibrary.un.org/record/1655099?ln=en, 
 - **Reference Code** - A/RES/73/25, General Assembly Resolution 73/25 on 3 December 2018
 - **Data Product Link (Dashboard/Report)** - <a href="https://github.com/lmakoti/SDG4-Education">International Day of Education (SADC)</a>
 
@@ -29,8 +29,8 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 
 **11th February 2022** - International Day of Women and Girls in Science (A/RES/70/212)
 
-- **Details** - https://www.un.org/en/observances/education-day
-- **Documentation** - https://undocs.org/en/A/RES/73/25
+- **Details** - https://www.un.org/en/observances/women-and-girls-in-science-day
+- **Documentation** - https://digitallibrary.un.org/record/821065?ln=en
 - **Reference Code** - A/RES/70/212, General Assembly Resolution 70/212 on 22 December 2015
 - **Data Product Link (Dashboard/Report)** - <a href="#">... Loading</a>
 
