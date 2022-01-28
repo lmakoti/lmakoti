@@ -22,9 +22,7 @@ Implementing these data products also offers a unique chance to experiment with 
 
 These are the international days and weeks currently observed by the United Nations. 
 
-**Observed Days** - https://www.un.org/en/observances/international-days-and-weeks 
-
-**List of international days and weeks** - https://www.un.org/en/observances/list-days-weeks
+**Observed Days** - <a href="https://www.un.org/en/observances/list-days-weeks" target="_blank">View List</a>
 
 The United Nations designates specific days, weeks, years and decades as occasions to **mark particular events or topics in order to promote,  through awareness and action, the objectives of the Organization.**  Usually, it is one or more Member States that propose these observances  and the General Assembly establishes them with a resolution.
 
@@ -71,7 +69,7 @@ Below is a link to the data products' development calendar based on the thematic
 
 **NB** This selection in **no** way prioritizes or ranks any of the events, this is purely on personal preference and my work schedule.
 
-**View Selected UN Days and Weeks** -  <a href="resource\Selected UN Days.md" target="_blank" download="Lehlohonolo Makoti CV">Data Projects/Product Calendar</a>
+**Selected UN Days and Weeks** -  <a href="resource\Selected UN Days.md" target="_blank">View Selection List</a>
 
 
 
