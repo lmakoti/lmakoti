@@ -118,8 +118,8 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 **Updated published data works**
 
-1. International Day of Education (24th January 2022) - https://github.com/lmakoti/SDG4-Education, An overview of education in the SADC region
-2. ... Loading
+1. International Day of Education ,24 January 2022 - <a href="https://github.com/lmakoti/SDG4-Education">View Dashboard</a>, An overview of education in the SADC region
+2. International Day of Women and Girls in Science, 11 February 2022 - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Dashboard</a> , An overview of education in the SADC region
 
 ## Curriculum Vitae
 
