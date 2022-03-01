@@ -35,7 +35,8 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 - **Data Product Link (Dashboard/Report)** - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/blob/main/README.md">International Day of Women and Girls in Science (SADC)</a>
 
 **March**
- **23 March 2022** - World Meteorological Day (WMO/EC-XII/Res.6) 
+
+**23 March 2022** - World Meteorological Day (WMO/EC-XII/Res.6) 
  
 - **Details** - https://public.wmo.int/en/resources/world-meteorological-day/wmd-2021-the-ocean-our-climate-and-weather
 - **Documentation** - https://library.wmo.int/doc_num.php?explnum_id=6198%23page=66 (PDF Download)
