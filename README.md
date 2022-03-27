@@ -120,6 +120,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 1. International Day of Education ,24 January 2022 - <a href="https://github.com/lmakoti/SDG4-Education">View Dashboard</a>, An overview of education in the SADC region
 2. International Day of Women and Girls in Science, 11 February 2022 - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Dashboard</a> , An overview of education in the SADC region
+3. World Meteorological Day, 23 March 2022 - <a href="https://github.com/lmakoti/03_World-Meteorological-Day">View Dashboard</a>, Using progress trackers for SDG goals 13 and 14 in relation to the ocean, climate and weather.
 
 ## Curriculum Vitae
 
@@ -141,12 +142,6 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 [linkedin]: https://www.linkedin.com/in/lehlohonolomakoti/
 [github]: https://www.github.com/lmakoti/
 [facebook]: https://www.facebook.com/lmakoti/
-
-
-
-<!-- Shields Profile Links -->
-
-[linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
 
 <!--Technology Stack-->
 
