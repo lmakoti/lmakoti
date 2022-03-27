@@ -112,9 +112,9 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 **Previous published data works**
 
-1. **Gender Inequality Index:** https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/GenderInequalityIndex-LesothoContext/LesothoGenderInequalityIndex
-2. **Climate Change CO2 Emissions** (COP26): https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/COP26ClimateChangeConferenceLesothoContext/COP26ClimateChangeConferenceLesotho
-3. **Human Development Index**: https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/HumanDevelopmentIndex-LesothoUNDP/Dashboard1 
+1. **Gender Inequality Index:** <a href="https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/GenderInequalityIndex-LesothoContext/LesothoGenderInequalityIndex">public.tableau.com/gender-inequality-index</a>
+2. **Climate Change CO2 Emissions** (COP26): <a href="https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/COP26ClimateChangeConferenceLesothoContext/COP26ClimateChangeConferenceLesotho">public.tableau.com/co2-emissions-lesotho</a>
+3. **Human Development Index**: <a href="https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/HumanDevelopmentIndex-LesothoUNDP/Dashboard1">public.tableau.com/human-development-index</a>
 
 **Updated published data works**
 
@@ -124,7 +124,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 ## Curriculum Vitae
 
-**Download my Curriculum Vitae(PDF)** -  <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
+**Download my Curriculum Vitae(PDF)** - <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
 
 ## Language Competencies
 1. Sesotho (Native)
