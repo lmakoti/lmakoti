@@ -132,6 +132,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 3. English (Proficient)
 4. French (Beginner-A1 CEFR) - <a href="https://github.com/LM411/certifications/blob/main/Letter-of-enrollment-1093136.pdf">New Skills Academy Enrollment Letter</a>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=lmakoti&show_icons=true)
 
 ## Closing Remarks
 
