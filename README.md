@@ -12,9 +12,7 @@ Please join me on my journey to build an analytics portfolio with data recycled 
 
 ## Portfolio Objective
 
-The aim in building this portfolio is to focus on developing data products based on selected international days and weeks observed by the UN, the primary objective of this process is to be a continuous improvement initiative aimed at improving my analytical work competency. The secondary aim is to improve competency in the use and deployment of data tools and solutions respectively.
-
-Implementing these data products also offers a unique chance to experiment with analytics platforms including PowerBI, Tableau, Google Data Studio, QlikSense, Excel etc., and as a result of the development work, a comparison will be done on each of the tools to assess the benefits of using one over the others based on the analysis context and simplicity of development, this will be measured using the KPIs outlined in the next section.
+The aim in building this portfolio is to focus on developing data products based on selected international days observed by the UN and a mixture or personal analytics projects, the primary objective of this process is to be a continuous improvement initiative aimed at improving my analytical work competency. The secondary aim is to improve competency in the use and deployment of data tools and solutions respectively.
 
 
 
@@ -44,26 +42,29 @@ Data products just like any other digital service/product have metrics through w
 
 ### Data Product Development Tools
 
-These are the tentative tools to be used in developing the data products:
-
-1. Microsoft PowerBI
-2. Tableau Public
-3. Google Data Studio
-4. Informatica
-5. QlikSense
-6. Sisense
-7. Microsoft Excel
-8. D3.Js
-9. Chart.JS
-10. Python Graphing Libraries (Plotly, Matplotlib, Pandas, Seaborn, Bokeh)
-
-| **Tools currently in use for development of my data products**
-
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-161637?style=for-the-badge&labelColor=212121&logo=Adobe%20Photoshop&logoColor=white)](#)
 
+These are some of the tools to be used in developing the data products:
 
+1. Microsoft PowerBI
 
-## Selected UN International Days and Weeks
+2. Microsoft Excel
+
+3. Tableau Public
+
+4. Python (Pandas, Luigi, Plotly, Seaborn, Bokeh)
+
+5. Google Data Studio
+
+6. OpenRefine (Google)
+
+7. Weka
+
+8. Chart.JS
+
+   
+
+## Selected UN International Days and Projects
 
 Below is a link to the data products' development calendar based on the thematic events I have selected to be part of this portfolio. 
 
@@ -110,27 +111,26 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 ## Published Works
 
-**Previous published data works**
-
-1. **Gender Inequality Index:** <a href="https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/GenderInequalityIndex-LesothoContext/LesothoGenderInequalityIndex">public.tableau.com/gender-inequality-index</a>
-2. **Climate Change CO2 Emissions** (COP26): <a href="https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/COP26ClimateChangeConferenceLesothoContext/COP26ClimateChangeConferenceLesotho">public.tableau.com/co2-emissions-lesotho</a>
-3. **Human Development Index**: <a href="https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/HumanDevelopmentIndex-LesothoUNDP/Dashboard1">public.tableau.com/human-development-index</a>
-
-**Updated published data works**
-
-1. International Day of Education ,24 January 2022 - <a href="https://github.com/lmakoti/SDG4-Education">View Dashboard</a>, An overview of education in the SADC region
-2. International Day of Women and Girls in Science, 11 February 2022 - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Dashboard</a> , An overview of education in the SADC region
-3. World Meteorological Day, 23 March 2022 - <a href="https://github.com/lmakoti/03_World-Meteorological-Day">View Dashboard</a>, Using progress trackers for SDG goals 13 and 14 in relation to the ocean, climate and weather.
+1. International Day of Education ,24 January 2022 - <a href="https://github.com/lmakoti/SDG4-Education">View Project</a>, An overview of education in the SADC region
+2. International Day of Women and Girls in Science, 11 February 2022 - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Project</a> , An overview of education in the SADC region
+3. World Meteorological Day, 23 March 2022 - <a href="https://github.com/lmakoti/03_World-Meteorological-Day">View Project</a>, Using progress trackers for SDG goals 13 and 14 in relation to the ocean, climate and weather.
+3. International Girls in ICT Day, 28 April 2022 - <a href="https://github.com/lmakoti/04_International-Girls-in-ICT-Day">View Project</a>, an overview into SDG 9.c: Significantly increase access to information and  communications technology and strive to provide universal and affordable access to the Internet.
+3. 
 
 ## Curriculum Vitae
 
 **Download my Curriculum Vitae(PDF)** - <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
 
 ## Language Competencies
-1. Sesotho (Native)
-2. Southern Bantu Languages: Kelobedu, Lozi, Pedi, Tswana (Beginner)
-3. English (Proficient)
-4. French (Beginner-A1 CEFR) - <a href="https://github.com/LM411/certifications/blob/main/Letter-of-enrollment-1093136.pdf">New Skills Academy Enrollment Letter</a>
+1. English (Proficient)
+
+2. Sesotho (Native)
+
+3. French (Beginner-A1 CEFR) - <a href="https://github.com/LM411/certifications/blob/main/Letter-of-enrollment-1093136.pdf">New Skills Academy Enrollment Letter</a>
+
+4. Southern Bantu Languages: Kelobedu, Lozi, Pedi, Tswana (Beginner)
+
+   
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=lmakoti&show_icons=true)
 

@@ -54,11 +54,9 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 
 **May**
 
-**17 May 2022** - World Telecommunication and Information Society Day (Resolution 68 (Rev. Antalya, 2006))
+**20 May 2022** - Fitbit Fitness Data (Personal)
 
-- **Details** - https://www.un.org/en/observances/telecommunication-day
-- **Documentation** - https://www.itu.int/en/wtisd/Pages/res68.aspx
-- **Reference Code** - Resolution 68 (Rev. Antalya, 2006), World Telecommunication and Information Society Day
+- **Documentation** - https://help.fitbit.com/articles/en_US/Help_article/1133.htm?Highlight=TCX%20file
 - **Data Product Link (Dashboard/Report)** - <a href="#">...Loading</a>
 
 ## Reference Content
