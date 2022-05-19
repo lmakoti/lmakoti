@@ -57,7 +57,7 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 **20 May 2022** - Fitbit Fitness Data (Personal)
 
 - **Documentation** - https://help.fitbit.com/articles/en_US/Help_article/1133.htm?Highlight=TCX%20file
-- **Data Product Link (Dashboard/Report)** - <a href="#">...Loading</a>
+- **Data Product Link (Dashboard/Report)** - <a href="https://github.com/lmakoti/05_Fibit_Fitness_Tracker/blob/main/README.md">World Telecommunication and Information Society Day</a>
 
 ## Reference Content
 
