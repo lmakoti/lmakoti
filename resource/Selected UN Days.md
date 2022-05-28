@@ -48,7 +48,7 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 **28 April 2022** - International Girls in ICT Day (REV.BUSAN,2014/Res.70, ITU) 
 
 - **Details** - https://public.wmo.int/en/resources/world-meteorological-day/wmd-2021-the-ocean-our-climate-and-weather
-- **Documentation** - https://www.itu.int/en/ITU-D/Digital-Inclusion/Documents/Resolutions/Resolution70_PP_BUSAN_14.pdf (PDF Download)
+- **Documentation** - https://www.itu.int/en/ITU-D/Digital-Inclusion/Documents/Resolutions/Resolution70_PP_BUSAN_14.pdf?OpenElement (PDF Download)
 - **Reference Code** - REV.BUSAN,2014/Res.70, International Girls in ICT Day-ITU
 - **Data Product Link (Dashboard/Report)** - <a href="https://github.com/lmakoti/04_International-Girls-in-ICT-Day">International Day for Girls in ICT (SADC)</a>
 
@@ -58,6 +58,16 @@ The numbers and letters in document symbols do not directly indicate the  topic 
 
 - **Documentation** - https://help.fitbit.com/articles/en_US/Help_article/1133.htm?Highlight=TCX%20file
 - **Data Product Link (Dashboard/Report)** - <a href="https://github.com/lmakoti/05_Fibit_Fitness_Tracker/blob/main/README.md">World Telecommunication and Information Society Day</a>
+
+**June**
+
+**05 June 2022** - World Environment Day (A/RES/2994 (XXVII))
+
+- **Details** - https://www.un.org/en/observances/environment-day
+- **Documentation** - https://documents-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/270/24/IMG/NR027024.pdf?OpenElement (PDF Download)
+- **Reference Code** - A/RES/2994 (XXVII), World Environment Day, General Assembly Resolution 2994 (XXVII)
+- **Data Product Link (Dashboard/Report)** - <a href="#">...Loading</a>
+
 
 ## Reference Content
 
