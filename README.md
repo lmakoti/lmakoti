@@ -62,7 +62,7 @@ These are some of the tools to be used in developing the data products:
 
 8. Chart.JS
 
-   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)   
 
 ## Selected UN International Days and Projects
 
