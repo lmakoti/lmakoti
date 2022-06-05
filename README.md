@@ -111,12 +111,12 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 ## Published Works
 
-1. International Day of Education ,24 January 2022 - <a href="https://github.com/lmakoti/SDG4-Education">View Project</a>, An overview of education in the SADC region
-2. International Day of Women and Girls in Science, 11 February 2022 - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Project</a> , An overview of education in the SADC region
-3. World Meteorological Day, 23 March 2022 - <a href="https://github.com/lmakoti/03_World-Meteorological-Day">View Project</a>, Using progress trackers for SDG goals 13 and 14 in relation to the ocean, climate and weather.
-4. International Girls in ICT Day, 28 April 2022 - <a href="https://github.com/lmakoti/04_International-Girls-in-ICT-Day">View Project</a>, an overview into SDG 9.c: Significantly increase access to information and  communications technology and strive to provide universal and affordable access to the Internet.
-5. World Telecommunication and Information Society Day, 17 May (Fitbit: Health and Fitness) - <a href="https://github.com/lmakoti/05_Fibit_Fitness_Tracker">View Project</a>, The purpose of World Telecommunication and Information Society Day (WTISD) is to help raise awareness of the possibilities that the use of the Internet and other information and communication technologies (ICT) can bring to societies and economies, as well as of ways to bridge the digital divide. 
-6. World Environment Day, 05 June 2022 - <a href="https://github.com/lmakoti/06_World-Environment-Day">View Project</a>, Led by the United Nations Environment Programme (UNEP) and held annually on 5 June since 1974, World Environment Day is the largest global platform for environmental public outreach and is celebrated by millions of people across the world.
+1. **International Day of Education ,24 January 2022** - <a href="https://github.com/lmakoti/SDG4-Education">View Project</a>, An overview of education in the SADC region
+2. **International Day of Women and Girls in Science, 11 February 2022** - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Project</a> , An overview of education in the SADC region
+3. **World Meteorological Day, 23 March 2022** - <a href="https://github.com/lmakoti/03_World-Meteorological-Day">View Project</a>, Using progress trackers for SDG goals 13 and 14 in relation to the ocean, climate and weather.
+4. **International Girls in ICT Day, 28 April 2022** - <a href="https://github.com/lmakoti/04_International-Girls-in-ICT-Day">View Project</a>, an overview into SDG 9.c: Significantly increase access to information and  communications technology and strive to provide universal and affordable access to the Internet.
+5. **World Telecommunication and Information Society Day**, 17 May (Fitbit: Health and Fitness) - <a href="https://github.com/lmakoti/05_Fibit_Fitness_Tracker">View Project</a>, The purpose of World Telecommunication and Information Society Day (WTISD) is to help raise awareness of the possibilities that the use of the Internet and other information and communication technologies (ICT) can bring to societies and economies, as well as of ways to bridge the digital divide. 
+6. **World Environment Day, 05 June 2022** - <a href="https://github.com/lmakoti/06_World-Environment-Day">View Project</a>, Led by the United Nations Environment Programme (UNEP) and held annually on 5 June since 1974, World Environment Day is the largest global platform for environmental public outreach and is celebrated by millions of people across the world.
 
 ## Curriculum Vitae
 
