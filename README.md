@@ -47,22 +47,15 @@ Data products just like any other digital service/product have metrics through w
 These are some of the tools to be used in developing the data products:
 
 1. Microsoft PowerBI
-
 2. Microsoft Excel
-
 3. Tableau Public
-
 4. Python (Pandas, Luigi, Plotly, Seaborn, Bokeh)
-
 5. Google Data Studio
-
 6. OpenRefine (Google)
-
 7. Weka
-
 8. Chart.JS
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmakoti)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Selected UN International Days and Projects
 
@@ -110,6 +103,8 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 
 ## Published Works
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmakoti)](https://git.io/streak-stats)
 
 1. **International Day of Education ,24 January 2022** - <a href="https://github.com/lmakoti/SDG4-Education">View Project</a>, An overview of education in the SADC region
 2. **International Day of Women and Girls in Science, 11 February 2022** - <a href="https://github.com/lmakoti/SDG5-Gender-Equality/">View Project</a> , An overview of education in the SADC region
