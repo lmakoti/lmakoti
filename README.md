@@ -115,7 +115,7 @@ The portfolio will be developed and maintained on GitHub (https://github.com/lma
 
 ## Curriculum Vitae
 
-**Download my Curriculum Vitae(PDF)** - <a href="resource\LMakoti-CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
+**Download my Curriculum Vitae(PDF)** - <a href="https://github.com/LM411/certifications/blob/main/Lehlohonolo%20Makoti%20CV.pdf" target="_blank" download="Lehlohonolo Makoti CV">Preview/Download CV</a>
 
 ## Language Competencies
 1. English (Proficient)
