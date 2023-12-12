@@ -1,12 +1,13 @@
-### <p style="text-align: center">Hi, Welcome to my Analytics Portfolio </p>
+### <center>👋Hi, Welcome to my Portfolio</center>
 
 <img src="resource\banner.png" alt="portfolio banner">
 
-Please join me on my journey to build an analytics portfolio with data recycled from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
+Please join me on my journey to build a Data Architect portfolio using data recycled from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc. and some lesser known datasets on Kaggle.
 
+[![GitHub Badge](https://img.shields.io/github/followers/jeafreezy?style=social)](https://github.com/lmakoti?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][linkedin]
-[![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] 
-
+[![Static Badge](https://img.shields.io/badge/CV-Curriculum_Vitae-008B8B)](https://drive.google.com/file/d/1QP-uT0VWI0oSd6XtJZ3Lhr4_L4gdmmzP/view?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/Kg-Kaggle-20BEFF)](https://www.kaggle.com/lmakoti)
 
 
 
