@@ -15,7 +15,7 @@ Please join me on my journey to build a Data Architect portfolio using data recy
 
 The aim in building this portfolio is to focus on developing data products based on selected international days observed by the UN and a mixture or personal analytics projects, the primary objective of this process is to be a continuous improvement initiative aimed at improving my analytical work competency. The secondary aim is to improve competency in the use and deployment of data tools and solutions respectively.
 
-
+[![roadmap.sh](https://roadmap.sh/card/tall/66ccf944a22274ce5024ca10?variant=dark)](https://roadmap.sh)
 
 ## United Nations International Days and Weeks
 
