@@ -9,6 +9,15 @@ Please join me on my journey to build a career/hobby I hope to be proud of when 
 [![Static Badge](https://img.shields.io/badge/CV-Curriculum_Vitae-008B8B)](https://drive.google.com/file/d/1QP-uT0VWI0oSd6XtJZ3Lhr4_L4gdmmzP/view?usp=sharing)
 [![Static Badge](https://img.shields.io/badge/Kg-Kaggle-20BEFF)](https://www.kaggle.com/lmakoti)
 
+## Must-Deliver Work Packages for 2026/27
+1. Write an **AI Risk Assessment** for a hypothetical company (or a real one)
+2. Create **System Cards, Model Cards, Risk Matrices (Probability-Severity Matrix), and Version Control Logs (maybe from GIT)** for at least two AI products.
+3. Create an **AI Governance Policy Template** for a company in a multilateral space and one in a corporate space.
+4. Develop a context specific **EU AI Act Compliance Checklist**.
+5. Breakdown what the EU AI Act means for some industry use cases.
+6. SOP for performing an **Algorithmic Impact Assessment**.
+7. Review/Refine my knowledge of the AI Lifecycle (Specifically ML as it relates to neural networks).
+
 ## README Objective(s)
 
 This readme will be split into two sections, the first focusing on tooling assets on all things data, but leaning more torwards data management through the lens of the [DAMA-DMBoK](https://dama.org/learning-resources/dama-data-management-body-of-knowledge-dmbok/) as our standard, while the second focuses on projects new and old, which you might find interesting and can be templated without any copyright issues.
