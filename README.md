@@ -1,22 +1,23 @@
-### <center> 🌎</Hello World> </center>
+### <center></Hello World> </center>
 
 Please join me on my journey to build a career/hobby I hope to be proud of when I look back years from now. My primary focus is to consolidate my `work + learning` experiences to find ways in which I can build solutions and offer re-usable documentation (templates, assets etc.) which anyone can use to make their lives easier. For the greater part I'll be using data recycled from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc. and some lesser known datasets on Kaggle. These will be coupled with resources that are publicly available, but tailored to deliver my message in the best way I can capture and shout out for the world to hear.
 
-> **My top priority learning objective (Jan - Mar)**: https://github.com/lmakoti/ai_governance_professional_iapp <br> Timestamp: 27-Janvier-2026, 13:58 GMT
+> **My top priority learning objective (Apr-August)**: https://www.isaca.org/credentialing/aair
 
 [![GitHub Badge](https://img.shields.io/github/followers/lmakoti?style=social)](https://github.com/lmakoti?tab=followers)
-[![LinkedIn Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][linkedin]
-[![Static Badge](https://img.shields.io/badge/CV-Curriculum_Vitae-008B8B)](https://drive.google.com/file/d/1QP-uT0VWI0oSd6XtJZ3Lhr4_L4gdmmzP/view?usp=sharing)
-[![Static Badge](https://img.shields.io/badge/Kg-Kaggle-20BEFF)](https://www.kaggle.com/lmakoti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/lehlohonolomakoti)
+[![HCX AI Research](https://img.shields.io/website?url=https%3A%2F%2Fhcxairesearch.org&label=HCXAIResearch&color=green)](https://hcxairesearch.org)
 
 ## Must-Deliver Work Packages for 2026/27
-1. Write an **AI Risk Assessment** for a hypothetical company (or a real one)
-2. Create **System Cards, Model Cards, Risk Matrices (Probability-Severity Matrix), and Version Control Logs (maybe from GIT)** for at least two AI products.
-3. Create an **AI Governance Policy Template** for a company in a multilateral space and one in a corporate space.
-4. Develop a context specific **EU AI Act Compliance Checklist**.
-5. Breakdown what the EU AI Act means for some industry use cases.
-6. SOP for performing an **Algorithmic Impact Assessment**.
-7. Review/Refine my knowledge of the AI Lifecycle (Specifically ML as it relates to neural networks).
+| Task                                                   | Scope                                                                                                                                                                                | Status      |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| Develop AI Risk Assessment Frameworks and Case Studies | Create AI risk assessment methodologies, question banks, and completed assessments for hypothetical or real organisations.                                                           | In Progress |
+| Create AI Governance Documentation Artefacts           | Develop System Cards, Model Cards, Probability-Severity Risk Matrices, Version Control Logs (e.g. Git-based), and related governance artefacts for at least two AI products.         | Not Started |
+| Design AI Governance Policy Templates                  | Create AI governance policy templates tailored for both multilateral organisations and corporate environments.                                                                       | Not Started |
+| Develop EU AI Act Compliance Resources                 | Create context-specific EU AI Act compliance checklists and map regulatory implications to industry-specific use cases.                                                              | Not Started |
+| Create an Algorithmic Impact Assessment (AIA) SOP      | Develop a standard operating procedure for conducting Algorithmic Impact Assessments, including governance workflows, stakeholder roles, and escalation processes.                   | Not Started |
+| Review and Strengthen AI/ML Lifecycle Knowledge        | Refine understanding of the AI lifecycle with emphasis on machine learning systems, neural networks, model development, deployment, monitoring, explainability, and risk management. | In Progress |
+
 
 ## README Objective(s)
 
