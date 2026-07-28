@@ -1,8 +1,10 @@
 ### <center></Hello World> </center>
 
-Please join me on my journey to build a career/hobby I hope to be proud of when I look back years from now. My primary focus is to consolidate my `work + learning` experiences to find ways in which I can build solutions and offer re-usable documentation (templates, assets etc.) which anyone can use to make their lives easier. For the greater part I'll be using data recycled from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc. and some lesser known datasets on Kaggle. These will be coupled with resources that are publicly available, but tailored to deliver my message in the best way I can capture and shout out for the world to hear.
+Please join me on my journey to build a career/hobby I hope to be proud of when I look back years from now. My primary focus is to consolidate my `work + learning` experiences to find ways in which I can build solutions and offer re-usable documentation (templates, assets etc.) which anyone can use to make their lives easier. For the greater part I'll be using data recycled from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc. and some lesser known datasets on Kaggle. These will be coupled with resources that are publicly available, but tailored to deliver my message the best way I can.
 
-> **My top priority learning objective (Apr-August)**: https://www.isaca.org/credentialing/aair
+**My top priority learning objective (Apr-August)**:
+> - **Advanced in AI Risk:** https://www.isaca.org/credentialing/aair
+> - **BSI ISO42001:2023 AI Management System:** https://www.bsigroup.com/en-GB/training-courses/implementing-an-iso-14001-environmental-management-system/
 
 [![GitHub Badge](https://img.shields.io/github/followers/lmakoti?style=social)](https://github.com/lmakoti?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/lehlohonolomakoti)
@@ -12,43 +14,22 @@ Please join me on my journey to build a career/hobby I hope to be proud of when 
 | Task                                                   | Scope                                                                                                                                                                                | Status      |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | Build solutions that employ AI Risk Assessment Frameworks | Create AI risk assessment methodologies, question banks, and completed assessments for hypothetical or real organisations.                                                           | In Progress |
-| Create AI Governance Documentation Artefacts           | Develop System Cards, Model Cards, Probability-Severity Risk Matrices, Version Control Logs (e.g. Git-based), and related governance artefacts for at least two AI products.         | Not Started |
-| Design AI Governance Policy Templates                  | Create AI governance policy templates tailored for both multilateral organisations and corporate environments.                                                                       | Not Started |
-| Develop EU AI Act Compliance Resources                 | Create context-specific EU AI Act compliance checklists and map regulatory implications to industry-specific use cases.                                                              | Not Started |
-| Create an Algorithmic Impact Assessment (AIA) SOP      | Develop a standard operating procedure for conducting Algorithmic Impact Assessments, including governance workflows, stakeholder roles, and escalation processes.                   | Not Started |
+| Create AI Governance Documentation Artefacts           | Develop System Cards, Model Cards, Probability-Severity Risk Matrices, Version Control Logs (e.g. Git-based), and related governance artefacts for at least two AI products.         | Testing |
+| Design AI Governance Policy Templates                  | Create AI governance policy templates tailored for both multilateral organisations and corporate environments.                                                                       | Testing |
+| Develop EU AI Act Compliance Resources                 | Create context-specific EU AI Act compliance checklists and map regulatory implications to industry-specific use cases.                                                              | Testing |
+| Create an Algorithmic Impact Assessment (AIA) SOP      | Develop a standard operating procedure for conducting Algorithmic Impact Assessments, including governance workflows, stakeholder roles, and escalation processes.                   | In Progress |
 | Review and Strengthen AI/ML Lifecycle Knowledge        | Refine understanding of the AI lifecycle with emphasis on machine learning systems, neural networks, model development, deployment, monitoring, explainability, and risk management. | In Progress |
 
+## Public Projects
+### 1. Governance, Risk and Compliance Projects (Code: `PrjGRC`)
+#### PrjGRC01: AI System Impact Assessment
+> **Project Title:** AI Impact Assessor <br>
+> **Project Description:** Self-contained HTML tool for conducting AI Impact Assessments (AIIA - pronounced "Aya"), aligned to ISO/IEC 42001:2023 (Annex A.5) and structured on ISO/IEC 42005:2025 - with risk register, Annex A control mapping, and PDF/Markdown/HTML exports. <br>
+> **Project URL:** https://github.com/HCXAIResearch/aiimpactassessment <br>
+> **Audience:** AI solutions/app developers, deployers, auditors and regulators <br>
+> **Licensing:** Apache-2.0 license (Permissive, Open-Source) <br>
 
-## README Objective(s)
-
-This readme will be split into two sections, the first focusing on tooling assets on all things data, but leaning more torwards data management through the lens of the [DAMA-DMBoK](https://dama.org/learning-resources/dama-data-management-body-of-knowledge-dmbok/) as our standard, while the second focuses on projects new and old, which you might find interesting and can be templated without any copyright issues.
-
-## 1. Documentation and Tooling
-... `info goes here`
-
-### Data Product Development Tools
-
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-161637?style=for-the-badge&labelColor=212121&logo=Adobe%20Photoshop&logoColor=white)](#)
-
-These are some of the tools to be used in developing the data products:
-
-1. Microsoft PowerBI
-2. Microsoft Excel
-3. Tableau Public
-4. Python (Pandas, Luigi, Plotly, Seaborn, Bokeh)
-5. Google Data Studio
-6. OpenRefine (Google)
-7. Weka
-8. Chart.JS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmakoti)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-## 2. Public Projects
-
-### United Nations International Days and Weeks
+### 2. United Nations International Days and Weeks
 
 These are the international days and weeks currently observed by the United Nations. 
 
