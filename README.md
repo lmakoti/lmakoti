@@ -5,6 +5,7 @@ Please join me on my journey to build a career/hobby I hope to be proud of when 
 **My top priority learning objective (Apr-August)**:
 > - **Advanced in AI Risk:** https://www.isaca.org/credentialing/aair
 > - **BSI ISO42001:2023 AI Management System:** https://www.bsigroup.com/en-GB/training-courses/implementing-an-iso-14001-environmental-management-system/
+> **AI Ethics, Regulation and Compliance Programme**:  https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-ai-ethics-regulation-and-compliance-programme
 
 [![GitHub Badge](https://img.shields.io/github/followers/lmakoti?style=social)](https://github.com/lmakoti?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/lehlohonolomakoti)
